@@ -1,2 +1,2 @@
 # 1-mail-automation
-# 2-DDOS Script
+# 2-Web Scraping 
