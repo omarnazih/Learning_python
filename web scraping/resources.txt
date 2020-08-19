@@ -1,0 +1,4 @@
+https://selenium-python.readthedocs.io/waits.html?highlight=waits
+https://techwithtim.net/
+https://www.w3schools.com/xml/xpath_intro.asp
+https://pythonspot.com/wp-content/uploads/2017/04/find_element_by_xpath.png
